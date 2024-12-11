@@ -71,16 +71,16 @@ const App = () => {
               onClick={playOnClick}
             >
               {paused ? (
-                <Pause className="w-6 h-6" />
+                <Pause className="w-6 h-6" onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined} />
               ) : (
-                <Play className="w-6 h-6" />
+                <Play className="w-6 h-6" onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined} />
               )}
             </button>
             <button
               className="px-4 py-2 text-lg text-white bg-red-400 rounded hover:bg-red-900"
               onClick={stopOnClick}
             >
-              <Stop className="w-6 h-6" />
+              <Stop className="w-6 h-6" onPointerEnterCapture={undefined} onPointerLeaveCapture={undefined} />
             </button>
           </div>
           <p className="text-white text-lg">
