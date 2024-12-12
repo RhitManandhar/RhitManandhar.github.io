@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RhitManandhar/static/css/main.0583d183.css",
+    "main.js": "/RhitManandhar/static/js/main.229de1aa.js",
+    "index.html": "/RhitManandhar/index.html",
+    "main.0583d183.css.map": "/RhitManandhar/static/css/main.0583d183.css.map",
+    "main.229de1aa.js.map": "/RhitManandhar/static/js/main.229de1aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0583d183.css",
+    "static/js/main.229de1aa.js"
+  ]
+}
